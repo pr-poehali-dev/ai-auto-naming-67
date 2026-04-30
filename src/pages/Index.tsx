@@ -17,7 +17,7 @@ const SUGGESTIONS = [
 ];
 
 function getReply(_text: string): string {
-  return "Я ИИ 67 — умный ассистент, готовый помочь с любым вопросом. Спрашивайте что угодно!";
+  return "67";
 }
 
 export default function Index() {
